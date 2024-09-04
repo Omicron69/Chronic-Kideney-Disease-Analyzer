@@ -1,6 +1,3 @@
-Here's the updated GitHub repository description with the customized title:
-
----
 
 # Chronic Kidney Disease Analyzer 🌿
 
